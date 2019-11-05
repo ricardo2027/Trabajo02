@@ -1,0 +1,3 @@
+d={'UNPRG':'LICENCIADA'}
+d['SUNEDU']='TEN PIEDAD'
+print(d)
